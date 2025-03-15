@@ -1,0 +1,19 @@
+
+
+Tutorial video: https://youtu.be/8I2puoh9CxE
+
+Bill of Material
+🎛️ Nidec Motor 24H - ALI: https://s.click.aliexpress.com/e/_oEclh0V
+🎛️ Digital Buzzer - ALI: https://s.click.aliexpress.com/e/_ooe48Gv
+🎛 7mm Push Button - ALI: https://s.click.aliexpress.com/e/_Dnebs3t
+🎛️ Power Switch 10x15 ALI: https://s.click.aliexpress.com/e/_DkAxjLh
+🎛 Arduino Nano ALI: https://s.click.aliexpress.com/e/_DdZQhcR
+🎛 Battery 11.1V 650mA - ALI: https://s.click.aliexpress.com/e/_omINxTT
+🎛 XT30 battery cable - ALI: https://s.click.aliexpress.com/e/_ooCZeMv
+🎛 Bluetooth Module HC05 - ALI: https://s.click.aliexpress.com/e/_oEKJG53
+
+
+
+Original project:
+https://github.com/remrc/Self-Balancing-Cube
+https://hackaday.io/project/198415-arduino-3d-printed-self-balancing-cube
