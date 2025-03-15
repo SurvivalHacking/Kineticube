@@ -9,6 +9,8 @@ An open source project, which was, however, complex to realise and calibrate, so
 In addition I also made for a friend, the magician HYDE a version resembling a rubik's cube.
 In this version, a number of improvements have been made to make it even simpler and aesthetically beautiful
 
+Full video tutorial: https://youtu.be/8I2puoh9CxE 
+
 ![EPXX-kineticube](https://github.com/user-attachments/assets/8b2953e7-28ab-43e1-93fe-c160df831cff)
 
 ![COVER](https://github.com/user-attachments/assets/e1239239-008c-4451-9d4f-b85b73b5c21c)
