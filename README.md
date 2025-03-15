@@ -19,8 +19,9 @@ In this version, a number of improvements have been made to make it even simpler
 
 ![Global Assembly](https://github.com/user-attachments/assets/c4cbd40c-7a58-4c47-9551-1c9c1b8b9234)
 
-[KinetiCube schematic.pdf](https://github.com/user-attachments/files/19265530/KinetiCube.schematic.pdf)
+![Screenshot 2025-03-15 alle 20 30 26](https://github.com/user-attachments/assets/660d0ba3-6989-4122-b11b-2e6687a32a81)
 
 ![Screenshot 2025-03-14 alle 22 32 57](https://github.com/user-attachments/assets/49ecfc90-6bd6-487a-abf5-31c474d460ce)
 
 ![Screenshot 2025-03-15 alle 20 29 16](https://github.com/user-attachments/assets/eb02b8ed-c5af-49f1-a10b-a5ed07a752e1)
+
